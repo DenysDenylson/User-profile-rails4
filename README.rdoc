@@ -1,5 +1,14 @@
 == README
 
+== DESCRIPCION 
+Este es un demo de un perfil de usario usando las gemas:
+* Devise
+* Dragonfly
+* Cancancan
+
+Fuentes: https://bitconcept.wordpress.com/2017/04/24/rails-crear-un-perfil-con-devise-y-cancancan/
+<br>  
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
