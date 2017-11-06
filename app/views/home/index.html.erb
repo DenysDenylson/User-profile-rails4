@@ -1,6 +1,6 @@
 <h2>My APP</h2>
 
 <% if user_signed_in? %>
-    <%= "Bienvenido #{current_user.email}!" %>
+    <%= "Bienvenido #{current_user.name}!" %>
     <%= link_to 'Cerrar sesion' , destroy_user_session_path, method: :delete %>
 <% end %>
