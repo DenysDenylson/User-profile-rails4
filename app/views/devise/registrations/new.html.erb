@@ -29,6 +29,10 @@
     <%= f.label :country %><br />
     <%= f.text_field :country, autocomplete: "off" %>
   </div>
+  <div class="field">
+    <%= f.label :image_uid %><br />
+    <%= f.file_field :image_uid %>
+  </div>
 
   <div class="actions">
     <%= f.submit "Sign up" %>
