@@ -27,6 +27,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # MIS GEMAS
 gem 'devise', '~> 4.1', '>= 4.1.1'
 gem 'dragonfly', '~> 1.1', '>= 1.1.3'
+gem 'cancancan', '~> 2.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
